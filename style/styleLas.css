@@ -1,0 +1,29 @@
+@import url("../base.css");
+*{
+    background-color: rgb(214, 173, 108);
+    font-family: monospace;
+
+}
+h1{
+    font-family: monospace;
+   text-align: center; 
+   color: rgb(73, 69, 6);
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.cen img{
+    width: 500px;
+    height: 300px;
+border: 3px solid brown;
+}
+h4{
+    font-size: x-large;
+    color: rgb(73, 69, 6);
+}
+p{
+    font-size: x-large;
+}
